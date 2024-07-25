@@ -2,7 +2,11 @@ import mymodule
 print("my first line");
 print("my second line");
 print("new most latest change of line added by sanju");
+<<<<<<< HEAD
 Commit A
 Commit B
 Commit C
 Commit D
+=======
+Commit A
+>>>>>>> parent of 4c6d7ac (commit B)
