@@ -3,3 +3,5 @@ print("my second line")
 print("the japan team made the change once again")
 
 print('changes for the second commit')
+
+print('commit A')
