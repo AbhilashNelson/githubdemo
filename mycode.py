@@ -6,3 +6,4 @@ print('changes for the second commit')
 
 print('commit A')
 print('commit B')
+print('The edit I am making direclty from github account')
