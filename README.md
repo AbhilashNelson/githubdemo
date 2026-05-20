@@ -1,2 +1,2 @@
 This is my first repo
-just to learn git
+just to learn git and git hub
